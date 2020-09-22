@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+### About
 
-You can use the [editor on GitHub](https://github.com/Tabaktom/Tabak.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My research interests include machine learning, natural language processing and deep learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Tabak, T. and Purver, M., 2020. Temporal Mental Health Dynamics on Social Media. arXiv preprint arXiv:2008.13121.
 
 # Header 1
 ## Header 2
@@ -20,6 +16,10 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+You can use the [editor on GitHub](https://github.com/Tabaktom/Tabak.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 **Bold** and _Italic_ and `Code` text
 
