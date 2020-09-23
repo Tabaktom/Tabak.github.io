@@ -7,8 +7,11 @@ My research interests include machine learning, natural language processing and 
 
 Tabak, T. and Purver, M., 2020. Temporal Mental Health Dynamics on Social Media. arXiv preprint arXiv:2008.13121.
 
-# Header 1
-## Header 2
+### Affiliations
+School of Electronic Engineering and Computer Science, Queen Mary University of London.
+
+### Header 1
+### Header 2
 ### Header 3
 
 - Bulleted
